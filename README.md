@@ -47,3 +47,26 @@ Also, I made some sreenshots:
 ![pic](https://github.com/AdamAlive/APP_aROBOT/blob/master/src_shot/019.jpg?raw=true?raw=true?raw=true)
   * A robot controller by blueteeth:
 ![pic](https://github.com/AdamAlive/APP_aROBOT/blob/master/src_shot/020.jpg?raw=true?raw=true?raw=true)
+
+
+****************
+
+## How to use
+
+ - Download the apk and install. And for the 3d scence, I upload the zipped file, unzip it and you can install it!
+ 
+ ![pic](https://github.com/AdamAlive/APP_aROBOT/blob/master/src_shot/022.jpg?raw=true?raw=true?raw=true)
+ 
+ ![pic](https://github.com/AdamAlive/APP_aROBOT/blob/master/src_shot/023.jpg?raw=true?raw=true?raw=true)
+ 
+ ![pic](https://github.com/AdamAlive/APP_aROBOT/blob/master/src_shot/027.jpg?raw=true?raw=true?raw=true)
+ 
+ ![pic](https://github.com/AdamAlive/APP_aROBOT/blob/master/src_shot/028.jpg?raw=true?raw=true?raw=true)
+ 
+ ![pic](https://github.com/AdamAlive/APP_aROBOT/blob/master/src_shot/029.jpg?raw=true?raw=true?raw=true)
+ 
+ ![pic](https://github.com/AdamAlive/APP_aROBOT/blob/master/src_shot/030.jpg?raw=true?raw=true?raw=true)
+
+ ![pic](https://github.com/AdamAlive/APP_aROBOT/blob/master/src_shot/031.jpg?raw=true?raw=true?raw=true)
+ 
+ - More pictures can be found in the folder or experience it by yourself.
